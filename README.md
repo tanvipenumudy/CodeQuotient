@@ -1,2 +1,2 @@
 # CodeQuotient
-CodeQuotient SuperCoders Program Solutions/Material
+CodeQuotient SuperCoders Pre-Course Program Solutions/Material
